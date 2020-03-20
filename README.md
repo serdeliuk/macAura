@@ -1,14 +1,15 @@
 # macAura
-Asus ROG aura for hackintosh
+
+#### Asus ROG aura for hackintosh
 
 [macAura release](https://github.com/serdeliuk/macAura/releases)
 
 It was tested only on Asus ROG STRIX G531GT which has 4 independent AURA zones as following:
 
-Zone1: keyboard, which have only one colour
-Zone2: light-bar corners (front corners)
-Zone3: light-bar front left half and right side
-Zone4: light-bar front right half and left side
+- Zone1: keyboard, which have only one colour
+- Zone2: light-bar corners (front corners)
+- Zone3: light-bar front left half and right side
+- Zone4: light-bar front right half and left side
 
 It seems that there exists AURA notebooks with 7 zones and i assume that the keyboard itself is splitted in four color zones, what i am thinking is that the above zones exists as well on the devices with 7 zones but i cannot test nor confirm.
 
