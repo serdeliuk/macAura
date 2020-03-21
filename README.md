@@ -2,7 +2,7 @@
 
 #### Asus ROG aura for hackintosh
 
-https://img.shields.io/github/v/release/serdeliuk/macAura?style=plastic
+[!download](https://img.shields.io/github/v/release/serdeliuk/macAura?style=plastic)
 
 It was tested only on Asus ROG STRIX G531GT which has 4 independent AURA zones as following:
 
