@@ -19,3 +19,5 @@ But note that i am not responsible for any damage may cause :) this software is 
 Changing the asusProductID on macAura.app/Contents/Resources/Product.plist file from 0x1866 hex or 6246 dec it allow you to test this app on different AURA devices, but note, do not use an asus productid which is not an AURA device, a good example will be an asus usb drive....
 
 Have fun!
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk)
