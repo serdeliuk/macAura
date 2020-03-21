@@ -20,4 +20,4 @@ Changing the asusProductID on macAura.app/Contents/Resources/Product.plist file 
 
 Have fun!
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk)
+Please [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
