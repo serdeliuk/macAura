@@ -4,7 +4,7 @@
 
 [![download](https://img.shields.io/github/v/release/serdeliuk/macAura?style=plastic)](https://github.com/serdeliuk/macAura/releases/download/1/macAura.app.zip)
 
-It was tested only on Asus ROG STRIX G531GT which has 4 independent AURA zones as following:
+It was tested only on Asus ROG STRIX G531GT and G731GU, which have 4 independent AURA zones as following:
 
 - Zone1: keyboard, which have only one colour
 - Zone2: light-bar corners (front corners)
