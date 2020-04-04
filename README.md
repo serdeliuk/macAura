@@ -6,7 +6,7 @@
 
 It was tested only on Asus ROG STRIX G531GT and G731GU, which have 4 independent AURA zones as following:
 
-- Zone1: keyboard, which have only one colour
+- Zone1: keyboard, which can have only one colour
 - Zone2: light-bar corners (front corners)
 - Zone3: light-bar front left half and right side
 - Zone4: light-bar front right half and left side
