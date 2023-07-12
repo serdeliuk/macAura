@@ -4,6 +4,8 @@
 
 [![download](https://img.shields.io/github/downloads/serdeliuk/macAura/total)](https://github.com/serdeliuk/macAura/releases/download/1/macAura.app.zip)
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
+
 It was tested only on Asus ROG STRIX G531GT and G731GU, which have 4 independent AURA zones as following:
 
 - Zone1: keyboard, which can have only one colour
@@ -25,5 +27,3 @@ Changing the asusProductID on macAura.app/Contents/Resources/Product.plist file 
 
 
 Have fun!
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
